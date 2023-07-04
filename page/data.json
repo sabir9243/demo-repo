@@ -1,0 +1,18 @@
+[
+    {
+        "comp" : "lenovo",
+        "display" : "15inch FHD",
+        "processor" : "intel i5 11gen",
+        "gpu" : "intel Iris Xe integrated",
+        "ram" : "SSD 512GB",
+        "back-lit" : "present"
+    },
+    {
+        "comp" : "asus",
+        "display" : "17inch FHD",
+        "processor" : "amd i5 11gen",
+        "gpu" : "nvidia dedicated",
+        "ram" : "SSD 512GB",
+        "back-lit" : "not present"
+    }
+]
